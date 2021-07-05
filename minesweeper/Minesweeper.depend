@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1607598251 source:c:\users\eimis\documents\uni\5 semestras\windows api\test project\minesweeper_nobuttons2\main.cpp
+	<tchar.h>
+	<windows.h>
+	"menu.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<string>
+	<commctrl.h>
+	<windowsx.h>
+	<vector>
+	<iostream>
+	<fstream>
+
+1607597307 c:\users\eimis\documents\uni\5 semestras\windows api\test project\minesweeper_nobuttons2\menu.h
+
+1607278678 source:c:\users\eimis\documents\uni\5 semestras\windows api\test project\minesweeper_nobuttons2\menu.rc
+	<windows.h>
+	"menu.h"
+
+1607282278 source:c:\users\eimis\documents\uni\5 semestras\windows api\project\minesweeper\menu.rc
+	<windows.h>
+	"menu.h"
+
+1607600907 c:\users\eimis\documents\uni\5 semestras\windows api\project\minesweeper\menu.h
+
+1625504389 source:c:\users\eimis\documents\uni\5 semestras\windows api\project\minesweeper\main.cpp
+	<tchar.h>
+	<windows.h>
+	"menu.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<string>
+	<commctrl.h>
+	<windowsx.h>
+	<vector>
+	<iostream>
+	<fstream>
+

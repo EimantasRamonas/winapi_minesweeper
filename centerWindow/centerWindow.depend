@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1607598021 source:c:\users\eimis\documents\uni\5 semestras\windows api\presentation testing\centerwindow\main.cpp
+	"main.h"
+	<winuser.h>
+
+1607596606 c:\users\eimis\documents\uni\5 semestras\windows api\presentation testing\centerwindow\main.h
+	<windows.h>
+
+1607601621 source:c:\users\eimis\documents\uni\5 semestras\windows api\project\centerwindow\main.cpp
+	"main.h"
+	<winuser.h>
+
+1607600206 c:\users\eimis\documents\uni\5 semestras\windows api\project\centerwindow\main.h
+	<windows.h>
+
